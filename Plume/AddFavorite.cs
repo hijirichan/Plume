@@ -8,9 +8,9 @@ using System.Windows.Forms;
 
 namespace Plume
 {
-    public partial class Form2 : Form
+    public partial class AddFavorite : Form
     {
-        public Form2()
+        public AddFavorite()
         {
             InitializeComponent();
         }
